@@ -48,12 +48,14 @@ const questions = [
     {
         type:"input",
         name:"question2",
-        message:"What is your email, and how can others reach out to you with more questions?"
+        message:"What is your email?"
+    },
+    {
+        type:"input",
+        name:"question3",
+        message:"How can others reach out to you with more questions?"
     }
 ];
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
