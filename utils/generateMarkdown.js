@@ -58,10 +58,8 @@ function generateMarkdown(data) {
   
   ${data.usage}
   
-  To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-  
       md
-      ![alt text](assets/images/screenshot.png)
+      ![Demo for the command line prompts and output for readme generator](../demo/readme-generator-demo.webm.mov)
      
   
   ## Credits
