@@ -22,8 +22,7 @@
   
   In the root folder, type "node index.js" to initialize the app. Answer the series of prompts and find generated README in the output folder
   
-      md
-      ![Demo for the command line prompts and output for readme generator](../demo/readme-generator-demo.webm.mov)
+  Video Demo Link: https://drive.google.com/file/d/1Kgfh8ZUgFp2mSxUDS1owYv7gctB-T-zj/view
      
   
   ## Credits
