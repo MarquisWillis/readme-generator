@@ -1,1 +1,1 @@
-Placeholder for github transfer
+Placeholder for README output folder (for remote repositories)
